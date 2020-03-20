@@ -24,9 +24,6 @@ class App extends Component{
             searchFeild: ""
         }
     }
-    componentDidMount(){
-        console.log(this.props.store)
-    }
     onSearch = (event) =>{
         this.setState({searchFeild: event.target.value})
     }
