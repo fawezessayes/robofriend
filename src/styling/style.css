@@ -4,9 +4,6 @@ html{
     background: linear-gradient(35deg, rgba(255,0,0,.5), rgba(0,0,255,.8));
     font-family: 'Baloo Chettan 2', cursive;
 }
-body{
-    overflow: hidden;
-}
 input{
     background: linear-gradient(35deg, rgba(255,0,0,.2), rgba(0,0,255,.2));
     outline: none;
